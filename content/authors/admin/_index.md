@@ -1,5 +1,5 @@
 ---
-title: Min Jeong Kim 김민정
+title: Min Jeong Kim
 role: Ph. D. candidate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
